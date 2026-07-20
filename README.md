@@ -33,7 +33,8 @@ O sistema utiliza `dataclasses` do Python para estruturar os dados de forma tipa
 ---
 
 ## 🚀 Instalação e Execução
-
+Atreração manual de caminho para arquivo excel. 
+Mudar linha 145 no script main.py para alteração.
 ### Pré-requisitos
 
 * Python 3.8+
@@ -43,3 +44,4 @@ O sistema utiliza `dataclasses` do Python para estruturar os dados de forma tipa
 ```bash
 # Instalação das dependências
 pip install pandas openpyxl
+python .\src\main.py
