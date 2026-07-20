@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes Virtuais (Variáveis de Ambiente)
+venv/
+.venv/
+env/
+.env
+# Permite commitar um template de exemplo para a equipe
+!/.env.example 
+
+# Testes e Cobertura (Pytest)
+.pytest_cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+
+# Ferramentas, Linters e Type Checkers
+.mypy_cache/
+.ruff_cache/
+.pre-commit-config.yaml
+
+# Logs e Bancos de Dados Locais
+*.log
+*.sqlite3
+*.sqlite
+*.db
+
+# Arquivos de Dados e Otimização (Evita commitar matrizes e outputs pesados)
+*.csv
+*.dat
+*.out
+*.xlsx
+data/
+!data/.gitkeep
+
+# Editores e SO (Vim, VSCode, Linux, etc.)
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+.DS_Store
