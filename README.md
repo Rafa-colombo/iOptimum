@@ -78,7 +78,7 @@ Este formato atende perfeitamente à integração com dashboards e APIs de acomp
 }
 
  ```
-
+Os resultados da execução foram salvos no arquivo `output.json`
 ## Instalação e Execução
 Atreração manual de caminho para arquivo excel. 
 Mudar linha 145 no script main.py para alteração.
