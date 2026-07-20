@@ -1,0 +1,246 @@
+Arquivo "backlog_desafio_500"
+{
+    "solution": {
+        "OS_10": "1",
+        "OS_52": "1, 2",
+        "OS_64": "1, 2, 3",
+        "OS_83": "1, 2",
+        "OS_85": "1",
+        "OS_97": "1, 2, 3",
+        "OS_102": "2, 3, 4",
+        "OS_128": "1, 2",
+        "OS_139": "3, 4, 5",
+        "OS_173": "1, 2",
+        "OS_186": "1, 2",
+        "OS_262": "2",
+        "OS_286": "1, 2, 3, 4, 5",
+        "OS_305": "2, 3, 4, 5",
+        "OS_381": "5",
+        "OS_393": "2, 3, 4",
+        "OS_433": "4",
+        "OS_447": "3, 5",
+        "OS_454": "3, 4, 5",
+        "OS_30": "5",
+        "OS_57": "4, 5",
+        "OS_126": "4, 5",
+        "OS_149": "5",
+        "OS_180": "3, 5",
+        "OS_214": "5",
+        "OS_229": "5",
+        "OS_276": "5",
+        "OS_325": "5",
+        "OS_221": "5",
+        "OS_423": "5"
+    },
+    "metrics": {
+        "n_os": "30",
+        "n_Z": "19",
+        "n_A": "9",
+        "n_B": "1",
+        "n_C": "1",
+        "utilization": {
+            "mecânico": "97%",
+            "elétrico": "99%",
+            "lubrificador": "99%",
+            "soldador": "100%"
+        }
+    },
+    "extras": {
+        "observations": "Heurística de alocação sequencial com limites diários concluída.",
+        "plots": "Visualizações não geradas na rotina principal.",
+        "any_additional_information": {
+            "capacidade_restante_por_dia": {
+                "1": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "2": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "3": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "4": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "5": {
+                    "Mecânico": 2.0,
+                    "Elétrico": 1.0,
+                    "Lubrificador": 1.0,
+                    "Soldador": 0.0
+                }
+            }
+        }
+    }
+}
+
+Arquivo "backlog_desafio_1000"
+{
+    "solution": {
+        "OS_2": "1",
+        "OS_22": "1, 2, 3, 4, 5",
+        "OS_49": "1, 2, 3",
+        "OS_76": "5",
+        "OS_79": "1, 2, 3",
+        "OS_84": "1",
+        "OS_89": "3, 4",
+        "OS_95": "1",
+        "OS_109": "1, 2",
+        "OS_114": "1, 2, 4",
+        "OS_130": "2, 3, 4",
+        "OS_131": "1, 2, 4",
+        "OS_189": "2",
+        "OS_214": "2, 3, 4, 5",
+        "OS_400": "1, 3",
+        "OS_411": "1, 3, 4",
+        "OS_518": "1",
+        "OS_639": "1, 2",
+        "OS_975": "4, 5",
+        "OS_5": "2, 5",
+        "OS_34": "5",
+        "OS_94": "5",
+        "OS_202": "5",
+        "OS_222": "4, 5",
+        "OS_440": "5",
+        "OS_913": "5"
+    },
+    "metrics": {
+        "n_os": "26",
+        "n_Z": "19",
+        "n_A": "6",
+        "n_B": "1",
+        "n_C": "0",
+        "utilization": {
+            "mecânico": "99%",
+            "elétrico": "100%",
+            "lubrificador": "98%",
+            "soldador": "99%"
+        }
+    },
+    "extras": {
+        "observations": "Heurística de alocação sequencial com limites diários concluída.",
+        "plots": "Visualizações não geradas na rotina principal.",
+        "any_additional_information": {
+            "capacidade_restante_por_dia": {
+                "1": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "2": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "3": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "4": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "5": {
+                    "Mecânico": 1.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.9999999999999964,
+                    "Soldador": 1.0
+                }
+            }
+        }
+    }
+}
+
+Arquivo "backlog_desafio_2000"
+{
+    "solution": {
+        "OS_18": "1, 2",
+        "OS_27": "1, 2, 3, 4",
+        "OS_57": "1, 2, 3, 4",
+        "OS_59": "1, 2, 3, 4, 5",
+        "OS_65": "2, 3, 4, 5",
+        "OS_98": "1, 2, 3, 4",
+        "OS_131": "2, 4, 5",
+        "OS_204": "1, 2, 5",
+        "OS_234": "1, 2, 3",
+        "OS_237": "4",
+        "OS_296": "2, 3, 4",
+        "OS_305": "3, 4",
+        "OS_374": "4, 5",
+        "OS_462": "5",
+        "OS_498": "3, 4, 5",
+        "OS_1998": "5",
+        "OS_77": "5",
+        "OS_1369": "5",
+        "OS_1121": "5",
+        "OS_1895": "5"
+    },
+    "metrics": {
+        "n_os": "20",
+        "n_Z": "16",
+        "n_A": "2",
+        "n_B": "1",
+        "n_C": "1",
+        "utilization": {
+            "mecânico": "100%",
+            "elétrico": "100%",
+            "lubrificador": "100%",
+            "soldador": "98%"
+        }
+    },
+    "extras": {
+        "observations": "Heurística de alocação sequencial com limites diários concluída.",
+        "plots": "Visualizações não geradas na rotina principal.",
+        "any_additional_information": {
+            "capacidade_restante_por_dia": {
+                "1": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "2": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "3": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 0.0
+                },
+                "4": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 1.0
+                },
+                "5": {
+                    "Mecânico": 0.0,
+                    "Elétrico": 0.0,
+                    "Lubrificador": 0.0,
+                    "Soldador": 1.7763568394002505e-15
+                }
+            }
+        }
+    }
+}
